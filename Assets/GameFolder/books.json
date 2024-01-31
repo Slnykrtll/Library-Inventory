@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+
+      "bookIcon": "wqdwq",
+      "bookName": "kitap1",
+      "bookAuthor": "ömer",
+      "bookPublisher": "publisher",
+      "canStackable": false,
+      "bookIsbn": 1
+    },
+    {
+
+      "bookIcon": "wqdwq",
+      "bookName": "kitap2",
+      "bookAuthor": "ömer",
+      "bookPublisher": "publisher",
+      "canStackable": false,
+      "bookIsbn": 1
+    },
+    {
+
+      "bookIcon": "wqdwq",
+      "bookName": "kitap3",
+      "bookAuthor": "ömer",
+      "bookPublisher": "publisher",
+      "canStackable": false,
+      "bookIsbn": 1
+    }
+  ]
+}

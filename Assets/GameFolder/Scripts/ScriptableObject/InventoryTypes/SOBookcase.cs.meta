@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29cba38fbecfb5e45ae6f651535bb992
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bookcase: {fileID: 11400000, guid: c705accba1036e24b9297a7013725930, type: 2}
+  - borrowed: {fileID: 11400000, guid: 1c04d8e8708951749ac1aaabf7736af9, type: 2}
+  - returned: {fileID: 11400000, guid: 6529fe4946870ba4cbfb9e2c89b2e7a9, type: 2}
+  - BInventory: {fileID: 11400000, guid: 1c04d8e8708951749ac1aaabf7736af9, type: 2}
+  - RInventory: {fileID: 11400000, guid: 6529fe4946870ba4cbfb9e2c89b2e7a9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
